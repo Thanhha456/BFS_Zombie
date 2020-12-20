@@ -1,3 +1,7 @@
+Project for assessment in "Principles of Computing (Part 1)" course at Rice university.
+https://www.coursera.org/learn/principles-of-computing-1?specialization=computer-fundamentals
+
+
 #**MiniProject: Zombie**  
 
 **Overview**  
